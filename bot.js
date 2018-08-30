@@ -8,7 +8,7 @@ console.log("Welcome Again !");
   return channel.send(`
 **السلام عليكم
 سيرفرنا جميل وينقصنا جمالك
-[ __ https://discord.gg/gmvymED __]
+[ __ https://discord.gg/R6DPs6h __]
 حياك ي عيني ...**
 [ ${member}  ]
 `)
@@ -21,7 +21,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **السلام عليكم
 سيرفرنا جميل وينقصنا جمالك
-[ __ https://discord.gg/gmvymED __]
+[ __ https://discord.gg/R6DPs6h __]
 حياك ي عيني ...**
 [ ${member}  ]-
 `) 
